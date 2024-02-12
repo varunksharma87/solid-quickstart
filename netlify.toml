@@ -9,4 +9,5 @@
   from = "https://dialflow.mosping.com/clearcover"
   to = "https://airtable.com/app3q4iLUHKT4SPCk/pag5sCOF2bDusahsv"
   status = 200
+  force = true
 
