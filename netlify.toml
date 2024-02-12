@@ -4,3 +4,8 @@
   command = "solid-start build"
   functions = "netlify/functions"
   publish = "netlify"
+
+[[redirects]]
+  from = "/clearcover/*"
+  to = "https://airtable.com/app3q4iLUHKT4SPCk/pag5sCOF2bDusahsv"
+  status = 200
