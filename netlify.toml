@@ -6,7 +6,7 @@
   publish = "netlify"
 
 [[redirects]]
-  from = "/clearcover.dialflow.mosping.com/*"
+  from = "/clearcover.df.mosping.com/*"
   to = "https://airtable.com/app3q4iLUHKT4SPCk/pag5sCOF2bDusahsv"
   status = 200
   force = true
