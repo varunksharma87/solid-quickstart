@@ -1,6 +1,12 @@
+# netlify.toml
+
 [build]
   command = "solid-start build"
   functions = "netlify/functions"
   publish = "netlify"
 
-  ## more info on configuring this file: https://www.netlify.com/docs/netlify-toml-reference/
+[[redirects]]
+  from = "/clearcover.dialflow.mosping.com/*"
+  to = "https://airtable.com/app3q4iLUHKT4SPCk/pag5sCOF2bDusahsv"
+  status = 200
+  force = true
