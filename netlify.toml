@@ -6,7 +6,7 @@
   publish = "netlify"
 
 [[redirects]]
-  from = "/*"
-  to = "https://www.airtable.com/:splat"
+  from = "https://clearcover.ucmesh.com"
+  to = "https://airtable.com"
   status = 301
   force = true
